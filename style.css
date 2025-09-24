@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    flex-wrap: wrap;
+}
+
+.bloki1{
+    height: 150px;
+    width: 100px;
+    margin: 0 12.5%;
+    background-color: black;
+}
